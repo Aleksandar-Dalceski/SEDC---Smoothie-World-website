@@ -1,0 +1,30 @@
+[{
+        "name": "Summer Chia Kiwi Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/06/tropical-kiwi-smoothie-recipe-1-960x540.jpg",
+        "recipe": "- 1 summer squash - chopped - 1 banana - peeled - 2 kiwis - peeled - 1 tbsp chia seeds - 1 cup water - 1 cup ice",
+        "desription": "With more vitamin C per serving than oranges, kiwis are an excellent food for keeping both your immune and nervous systems strong during times of stress. Bananas and summer squash are full of magnesium, a mineral that helps both your muscles and your mind relax. Add in a tablespoon of chia seeds for healthy fiber, protein and inflammation-reducing Omega-3s, and you"
+    },
+    {
+        "name": "Orange Berry Basil Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/04/orange-berry-basil-smoothie-recipe-1-960x540.jpg",
+        "recipe": "- 1 1/2 oz collard greens - 1 orange - peeled - 4 oz strawberries - 1 bunch basil - 8 oz rice milk - 1 cup ice",
+        "desription": "Quite high in vitamins K and A, basil adds a grounding, earthy flavor to smoothies. There’s over 35 varieties of basil worldwide, and it has a long history in folk medicine. In addition to being a low sugar fruit high in vitamin C, many people believe strawberries can help naturally whiten teeth. And collard greens are great additions to smoothies because of their unusually high protein content! Drink this smoothie, feel fresh and clean from the inside out!"
+    },
+
+    {
+        "name": "Chai Green Matcha Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/10/chai-green-matcha-smoothie-recipe-2-960x540.jpg",
+        "recipe": "- 1 1/2 oz baby spinach - 1 banana - peeled - 1 pear - chopped - 1/2 tsp chai spices - 1 tbsp flax seed - 1 tsp matcha tea - 1 cup water - 1 cup ice",
+        "desription": "If you’re looking for a cold smoothie that will warm you up from the inside out, this naturally energizing drink is what you’ve been looking for! A warming, anti-inflammatory blend of chai spice paired with the natural caffeine (and calming properties) of matcha will get your body revving, while fiber from a pear and banana will keep you sweetly satisfied. Iron and vitamin K from spinach, along with healthy Omega-3s from flax seed help make this low-calorie meal nutrient dense."
+    },
+
+    {
+        "name": "Blue Butterfly Pea Lemonade Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/05/blue-butterfly-pea-lemonade-1-960x540.jpg",
+        "recipe": "- 1 yellow squash - chopped - 4 oz honeydew - 1 pear - chopped - 1/2 lemon - juiced - 3 tbsp almonds - 1 tbsp butterfly pea flower tea - 1 cup water - 1 cup ice",
+        "desription": "Native to Southeast Asia, butterfly pea flower tea has a similar taste and health benefits to green tea, but no caffeine. It’s also been called “mood ring tea” for its cool color-changing abilities! The rest of the ingredients in this smoothie, honeydew, pear, lemon and yellow squash, are hydrating and fiber-filled, and the addition of almonds add a bit of healthy fat and protein. Pro Tip: For the full “mood ring” effect, brew the butterfly pea flower tea in ¼ cup of hot water for 2-3 minutes. This will turn the tea bright blue. If you add the lemon to the tea prior to blending, the liquid will turn purple. Isn’t nature cool?"
+    }
+
+
+
+]

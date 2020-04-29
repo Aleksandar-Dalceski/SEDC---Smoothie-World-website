@@ -1,0 +1,30 @@
+[{
+        "name": "Pear Mint Hydrate Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/04/pear-mint-hydrate-smoothie-recipe-3-960x540.jpg",
+        "recipe": "- 1 pear - chopped -2 mini cucumbers - chopped - 1 bunch mint - stemmed - 1 tbsp pea protein - 3 tbsp almonds - 1 cup water - 1 cup ice",
+        "desription": "A recent study found that the addition of almonds into people’s daily diet helped them avoid other processed snacks, and over-snacking in general. Because almonds pack a nutritious punch of protein, healthy fats, and fiber, they’re really one of the best blending additions out there – and the best part? They create a perfectly creamy smoothie."
+    },
+    {
+        "name": "Blueberry Punch Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/04/blueberry-punch-smoothie-recipe-1-960x540.jpg",
+        "recipe": "- 1 zucchini - chopped - 1 banana - peeled - 2 oz blueberries - 1 tsp amla powder - 1 cup water - 1 cup ice",
+        "desription": "Here’s why blueberries are amazing: They’re low in sugar, there are numerous scientific studies showing how helpful they are to brain health, and they make any smoothie taste like a summer’s day! Also known as Indian gooseberries, amla berries are native to southeast Asia, and contain phytochemicals (among other nutrients), which are plant compounds that do battle with unhealthy free radicals in the body."
+    },
+
+    {
+        "name": "Butternut Chai Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/10/creamy-butternut-chai-matcha-2.jpg",
+        "recipe": "- 1 1/2 oz baby spinach - 4 oz butternut squash - 1 banana - peeled - 1/2 tsp chai spice - 3 tbsp almonds - 1 cup water - 1 cup ice",
+        "desription": "Butternut squash provides beta carotene and fiber, as well as a delicately sweet smoothie base, and the combination of a banana and chai spices creates the perfect chai latte effect. Top it off with a dash of vitamins A, C, E and K from spinach, and you have all the flavor of a delicious milkshake with a nice nutritional punch."
+    },
+
+    {
+        "name": "Superfood Oatmeal Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/10/superfood-oatmeal-smoothie-recipe-1-960x540.jpg",
+        "recipe": "- 1 banana - peeled - 1 squash - chopped - 3 tbsp rolled oats - 1 tsp lucuma powder - 1 tsp cinnamon - 1 tbsp pumpkin seeds - 1 cup water - 1 cup ice",
+        "desription": "All the heart healthy benefits of oatmeal in a cup, this low calorie smoothie will keep you satisfied for hours thanks to pumpkin seeds, which are little powerhouses of plant-based protein, fiber and healthy fats. Add in some skin-loving cinnamon and lucuma, and feel yourself glow from the inside out."
+    }
+
+
+
+]
