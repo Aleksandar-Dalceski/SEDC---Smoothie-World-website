@@ -1,26 +1,38 @@
-[{
+[
+    {
         "name": "Goji Citrus Tomato Smoothie Recipe",
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/goji-citrus-tomato-smoothie-recipe-1-960x540.jpg",
-        "recipe": "- 2 1/2 oz grape tomatoes - 2 oz celery - chopped - 1 orange - peeled - 1 lime - peeled - 1 tbsp chia seeds - 2 tbsp goji berries - 1 cup water - 1 cup ice",
+        "recipe": "[ 2 1/2 oz grape tomatoes ] - [ 2 oz celery - chopped ] - [ 1 orange - peeled ] - [ 1 lime - peeled ] - [ 1 tbsp chia seeds ] - [ 2 tbsp goji berries ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "Goji berries have reportedly been used in Chinese medicine since 200 B.C, and began to pop up in the US at the beginning of the 21st century. With a nice amount of fiber, protein and essential amino acids per serving, as well as a studied ability to help balance glucose, goji berries are an excellent booster for any smoothie blend! Along with a lime and orange, goji adds a delicate sweetness to this otherwise light, high fiber drink."
     },
     {
         "name": "Sweet ‘n Light Nectarine Smoothie Recipe",
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/sweet-n-light-nectarine-smoothie-recipe-2-960x540.jpg",
-        "recipe": "- 2 oz baby bok choy - 1 nectarine - pitted - 2 kiwi - peeled - 2 tbsp coconut flakes - 1 tbsp hemp seeds - 1 cup water - 1 cup ice",
+        "recipe": "[ 2 oz baby bok choy ] - [ 1 nectarine - pitted ] - [ 2 kiwi - peeled ] - [ 2 tbsp coconut flakes ] - [ 1 tbsp hemp seeds ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "Like lemons, kiwis are antibacterial and antifungal, which is why many people use them in homemade face mask recipes. Kiwis also provide more lutein per serving than almost any other commonly-eaten fruit. Lutein is a phytochemical that not only protects skin, but is extremely beneficial for eye health. Bok choy, a nectarine, and hemp seeds are also fantastic for your skin, which means this smoothie loves your immune system and your complexion!"
     },
     {
         "name": "Strawberry Refresh Smoothie Recipe",
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/05/strawberry-refresh-smoothie-recipe-1-960x540.jpg",
-        "recipe": "- 2-3 mini cucumbers - chopped - 4 oz strawberries - 1 lime - peeled - 1 bunch mint - 1 tbsp chia seeds - 1 tbsp flaxseed - 1 cup water - 1 cup ice",
+        "recipe": "[ 2-3 mini cucumbers - chopped ] - [ 4 oz strawberries ] - [ 1 lime - peeled ] - [ 1 bunch mint ] - [ 1 tbsp chia seeds ] - [ 1 tbsp flaxseed ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "Flaxseed and chia seeds are the perfect smoothie boosters because they contain fiber, protein, and healthy fats – but don’t add a lot of unnecessary calories. Strawberries, lime and cucumbers make a refreshing, vitamin C-infused combination, but are also light on calories. Start your morning on an energized, happy note with this sweet treat."
     },
     {
         "name": "Green Berry Revive Smoothie Recipe",
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/04/green-berry-revive-smoothie-recipe-3-960x540.jpg",
-        "recipe": "- 1 1/2 oz baby spinach - 4 oz strawberries - 2 mini cucumbers - chopped - 1 tsp baobab powder - 1 tbsp flaxseed1 cup water - 1 cup ice",
+        "recipe": "[ 1 1/2 oz baby spinach ] - [ 4 oz strawberries ] - [ 2 mini cucumbers - chopped ] - [ 1 tsp baobab powder ] - [ 1 tbsp flaxseed ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "First cultivated during the Roman Empire, the shape of the strawberry should be your first clue into one of its main benefits: The increase of good cholesterol. Strawberries also have been linked to lowered blood pressure. Baobab powder is made from a fruit native to Africa that is especially helpful to the complexion, and flaxseed is a natural inflammation fighter. This light smoothie will help you feel your best, no matter what kind of busy day you have ahead."
+    },
+    {
+        "name": "Cucumber Matcha Cooler Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/03/cucumber-matcha-cooler-smoothie-recipe-4-960x540.jpg",
+        "recipe": "[ 2 mini cucumbers - chopped ] - [ 4 oz grapes ] - [ 1 tsp matcha powder ] - [ 1 apple - chopped ] - [ 1 tbsp chia seeds ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "The perfect way to increase energy without that jittery, over-caffeinated feeling, matcha is full of both natural caffeine and L-Theanine, an amino acid that helps induce calmness. Another superfood that helps with energy, chia seeds contain healthy fats, protein and fiber. Start your day with this sweet, hydrating smoothie, and stay satisfied and energized for hours."
+    },
+    {
+        "name": "Ginger Citrus Energizer Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/03/ginger-citrus-energizer-smoothie-recipe-2-960x540.jpg",
+        "recipe": "[ 1 yellow squash - chopped ] - [ 1 oz kumquats ] - [ 1 tbsp pea protein ] - [ 4 oz pineapple ] - [ 1/2 inch ginger - peeled, chopped ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "This light smoothie is the perfect way to start your morning, thanks to copious amounts of skin-loving vitamin C (in pineapple and kumquats) and anti-inflammatory power from raw ginger. Squash is a great way to amp up the volume of your smoothie without adding excess calories or sugar, and pea protein helps to give you a burst of energy."
     }
-
 ]

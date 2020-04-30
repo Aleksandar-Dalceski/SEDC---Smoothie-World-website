@@ -10,18 +10,29 @@
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/blue-citrus-crush-smoothie-recipe-1-960x540.jpg",
         "recipe": "[ 5 oz summer squash - chopped ] - [ 1 orange - peeled ] - [ 2 oz blueberries ] - [ 1 tsp acai berry powder ] - [ 1 tbsp flaxseed ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "A small brown or golden seed that comes from a crop grown in cooler climates, flax, also known as linseed, is both a food and textile crop. One of the biggest benefits to eating flax is the amount of lignans available per serving. Lignans are antioxidants that can actually help balance hormones, and may help fight against hormone-related cancers such as breast cancer, ovarian cancer and prostate cancer. Add some more antioxidants from acai berry powder and blueberries, and you have a low calorie, immune-boosting powerhouse breakfast."
-       
     },
     {
-          "name": "Sweet ‘n Light Nectarine Smoothie Recipe",
-          "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/sweet-n-light-nectarine-smoothie-recipe-2-960x540.jpg",
-          "recipe": "[ 2 oz baby bok choy ] - [ 1 nectarine - pitted ] - [ 2 kiwi - peeled ] - [ 2 tbsp coconut flakes ] - [ 1 tbsp hemp seeds ] - [ 1 cup water ] - [ 1 cup ice ]",
-          "description": "Like lemons, kiwis are antibacterial and antifungal, which is why many people use them in homemade face mask recipes. Kiwis also provide more lutein per serving than almost any other commonly-eaten fruit. Lutein is a phytochemical that not only protects skin, but is extremely beneficial for eye health. Bok choy, a nectarine, and hemp seeds are also fantastic for your skin, which means this smoothie loves your immune system and your complexion!"
+        "name": "Sweet ‘n Light Nectarine Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/sweet-n-light-nectarine-smoothie-recipe-2-960x540.jpg",
+        "recipe": "[ 2 oz baby bok choy ] - [ 1 nectarine - pitted ] - [ 2 kiwi - peeled ] - [ 2 tbsp coconut flakes ] - [ 1 tbsp hemp seeds ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "Like lemons, kiwis are antibacterial and antifungal, which is why many people use them in homemade face mask recipes. Kiwis also provide more lutein per serving than almost any other commonly-eaten fruit. Lutein is a phytochemical that not only protects skin, but is extremely beneficial for eye health. Bok choy, a nectarine, and hemp seeds are also fantastic for your skin, which means this smoothie loves your immune system and your complexion!"
     },
     {
-          "name": "Greatist Hits: Hawaiian Green Smoothie Smoothie Recipe",
-          "image":"https://greenblender.com/smoothies/wp-content/uploads/2018/05/hawaiian-green-smoothie-recipe-hero-badge.png",
-          "recipe": "[ 1 1/2 oz spinach ] - [ 4 oz pineapple ] - [ 1 apple - chopped ] - [ 1 mini cucumber ] - [ chopped - 3 tbsp almonds ] - [ 2 tbsp coconut flakes ] - [ 1 cup water ] - [ 1 cup ice ]",
-          "description":"Start your morning off on a tropical foot with this vitamin C infused smoothie (each serving contains 63 percent of your daily vitamin C needs). More than just a sweet beach fruit, pineapple contains bromelain, a digestive enzyme that breaks down protein molecules. This enzyme has been studied as being helpful in digestion, absorption of antibiotics, and decreasing inflammation. Shout out to Greatist for partnering with us on this tropical delight!"
-    } 
+        "name": "Greatist Hits: Hawaiian Green Smoothie Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/05/hawaiian-green-smoothie-recipe-hero-badge.png",
+        "recipe": "[ 1 1/2 oz spinach ] - [ 4 oz pineapple ] - [ 1 apple - chopped ] - [ 1 mini cucumber ] - [ chopped - 3 tbsp almonds ] - [ 2 tbsp coconut flakes ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "Start your morning off on a tropical foot with this vitamin C infused smoothie (each serving contains 63 percent of your daily vitamin C needs). More than just a sweet beach fruit, pineapple contains bromelain, a digestive enzyme that breaks down protein molecules. This enzyme has been studied as being helpful in digestion, absorption of antibiotics, and decreasing inflammation. Shout out to Greatist for partnering with us on this tropical delight!"
+    },
+    {
+        "name": "Oatmeal Cookie Superfood Cereal",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/03/Superfood-Cereal-Oatmeal-Cookie-960x540.png",
+        "recipe": "[ 1/3 cup rolled oats ] - [ 15 grams pecans ] - [ 1/2 tsp lucuma powder ] - [ 1/8 cup dried currants ] - [ 1/2 tbsp hemp seeds ] - [ 1/2 tsp cinnamon ]",
+        "description": "Start your morning off on a tropical foot with this vitamin C infused smoothie (each serving contains 63 percent of your daily vitamin C needs). More than just a sweet beach fruit, pineapple contains bromelain, a digestive enzyme that breaks down protein molecules. This enzyme has been studied as being helpful in digestion, absorption of antibiotics, and decreasing inflammation. Shout out to Greatist for partnering with us on this tropical delight!"
+    },
+    {
+        "name": "Carrot Apple Recharge Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/03/carrot-apple-recharge-smoothie-recipe-1-960x540.jpg",
+        "recipe": "[ 1 1/2 oz baby spinach ] - [ 1 apple - chopped ] - [ 2 dates - chopped ] - [ 5 oz carrots - chopped ] - [ 1/2 inch ginger ] - [ 3 tbsp cashews ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "Thanks to beta-carotene from carrots, Omega-3s from cashews, and anti-inflammatory power from raw ginger root, this smoothie is amazing for your skin. It’s also naturally sweet, thanks to dates, which are full of fiber, calcium and iron. Baby spinach also contains iron, and an apple adds more fiber. This smoothie will help energize your morning, and keep you satisfied all day."
+    }
 ]

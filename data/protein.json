@@ -2,26 +2,37 @@
     {
         "name": "Kiwi Strawberry Detox Smoothie Recipe",
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/kiwi-strawberry-detox-smoothie-recipe-1-960x540.jpg",
-        "recipe": "1 1/2 oz baby spinach - 4 oz strawberries - 2 kiwis peeled - 1 tbsp flaxseed - 2 tbsp pumpkin seeds - 1 cup water1 cup ice",
+        "recipe": "[ 1 1/2 oz baby spinach ] - [ 4 oz strawberries ] - [ 2 kiwis peeled ] - [ 1 tbsp flaxseed ] - [ 2 tbsp pumpkin seeds ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "The best definition of “detox” that we can think of is a drink that helps our organs work at optimal levels. This low sugar smoothie, which is full of healthy fats and protein from pumpkin seeds and flaxseed, tons of vitamin C from strawberries and kiwis, and iron from spinach, is the perfect blend for strengthening our liver, heart, and digestive systems. And bonus points: This blend also works as a healthy meal replacement!"
     },
     {
         "name": "Acai Pear Date Smoothie Recipe",
         "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/acai-pear-date-smoothie-recipe-1-960x540.jpg",
-        "recipe": "1 summer squash chopped - 2 tomatillos husked - 1 pear chopped - 1 tsp acai berry powder - 1 tbsp pea protein - 2 dates - pitted1 cup water1 cup ice",
+        "recipe": "[ 1 summer squash chopped ] - [ 2 tomatillos husked ] - [ 1 pear chopped ] - [ 1 tsp acai berry powder ] - [ 1 tbsp pea protein ] - [ 2 dates pitted ] - [ 1 cup water ] - [ 1 cup ice ]",
         "description": "Whether you’re new to the smoothie game, or just have a pretty big sweet tooth, dates are one of the best ways to sweeten up any blend! Not only do they provide both soluble and insoluble fiber, they’re also high in calcium, phosphorus and antioxidants. When combined with pear (another sweet, fiber-filled fruit), mild summer squash, and acai berry powder (which packs a big antioxidant punch), they create a sweet treat that will keep you satisfied and energized for hours."
-       
     },
     {
-          "name": "Green Kiwi Protein Smoothie Recipe",
-          "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/green-kiwi-protein-smoothie-recipe-3-960x540.jpg",
-          "recipe": "1 1/2 oz baby spinach2 kiwis - peeled1 nectarine - pitted1 tbsp pea protein1 cup water1 cup ice",
-          "description": "The popularity of kiwifruit in America began during WWII, when servicemen stationed in New Zealand first got a taste. While everyone thinks of oranges as being packed with vitamin C, just one cup of raw kiwi provides around 270 percent of your daily recommended amount, making it the perfect fruit for brightening your complexion from the inside out. Nectarines contain beta-carotene, another complexion-loving vitamin, and spinach is full of iron and vitamin K, essential nutrients for healthy bones and blood. Give your immune system a boost with this green dream."
+        "name": "Green Kiwi Protein Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/06/green-kiwi-protein-smoothie-recipe-3-960x540.jpg",
+        "recipe": "[ 1 1/2 oz baby spinach ] - [ 2 kiwis -peeled ] - [ 1 nectarine - pitted ] - [ 1 tbsp pea protein ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "The popularity of kiwifruit in America began during WWII, when servicemen stationed in New Zealand first got a taste. While everyone thinks of oranges as being packed with vitamin C, just one cup of raw kiwi provides around 270 percent of your daily recommended amount, making it the perfect fruit for brightening your complexion from the inside out. Nectarines contain beta-carotene, another complexion-loving vitamin, and spinach is full of iron and vitamin K, essential nutrients for healthy bones and blood. Give your immune system a boost with this green dream."
     },
     {
-          "name": "Pear Mint Hydrate Smoothie Recipe",
-          "image":"https://greenblender.com/smoothies/wp-content/uploads/2018/04/pear-mint-hydrate-smoothie-recipe-3-960x540.jpg",
-          "recipe": "1 pear chopped - 2 mini cucumbers chopped - 1 bunch mint stemmed - 1 tbsp pea protein - 3 tbsp almonds - 1 cup water1 cup ice",
-          "description":"A recent study found that the addition of almonds into people’s daily diet helped them avoid other processed snacks, and over-snacking in general. Because almonds pack a nutritious punch of protein, healthy fats, and fiber, they’re really one of the best blending additions out there – and the best part? They create a perfectly creamy smoothie."
-    } 
+        "name": "Pear Mint Hydrate Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2018/04/pear-mint-hydrate-smoothie-recipe-3-960x540.jpg",
+        "recipe": "[ 1 pear chopped ] - [ 2 mini cucumbers chopped ] - [ 1 bunch mint stemmed ] - [ 1 tbsp pea protein ] - [ 3 tbsp almonds ] - [ 1 cup water ] - [ 1 cup ice ]",
+        "description": "A recent study found that the addition of almonds into people’s daily diet helped them avoid other processed snacks, and over-snacking in general. Because almonds pack a nutritious punch of protein, healthy fats, and fiber, they’re really one of the best blending additions out there – and the best part? They create a perfectly creamy smoothie."
+    },
+    {
+        "name": "Yumbutter Probiotic Protein Paradise Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/08/Yumbutter-Probiotic-Protein-Paradise-smoothie-recipe-3-960x540.jpg",
+        "recipe": "[ 1 1/2 oz collard greens ] - [ 1 apple - chopped ] - [ 3 tbsp rolled oats ] - [ 1 cup water ] - [ 1 banana - peeled ] - [ 2 tbsp Yumbutter Protein + Probiotic Almond Butter ] - [ 1 tsp lucuma powder ] - [ 1 cup ice ]",
+        "description": "Full of hearty fiber and the kind of healthy fat your body needs to keep moving all day long, this smoothie will send you bouncing out the door! We created this recipe with our friends at Yumbutter using their Protein + Probiotic Almond Butter, which is certified organic, packs around 10g of protein per serving, and includes probiotics to help your body turn this smoothie into fuel as efficiently as possible. When combined with a fiber-rich apple and banana, hunger-reducing rolled oats, the natural sweetness of lucuma, and tons of vitamins from collard greens, you get an energizing breakfast for the record books!"
+    },
+    {
+        "name": "WTRMLN WTR Hydrate Smoothie Recipe",
+        "image": "https://greenblender.com/smoothies/wp-content/uploads/2017/05/WTRMLN-WTR-hydrate-2-960x540.jpg",
+        "recipe": "[ 1 pear - chopped ] - [ 1 bunch mint ] - [ 3 tbsp almonds ] - [ 1 cup ice ] - [ 2 mini cucumbers - chopped ] - [ 1 tbsp pea protein ] - [ 12 ounces WTRMLN WTR ]",
+        "description": "When the weather is hot and steamy, or your gym session has depleted you, the best way to feel immediately refreshed is to hydrate with natural minerals. Thanks to WTRMLN WTR, cold-pressed, low-sugar watermelon water with nothing added but a hint of organic lemon, this recovery smoothie is not only full of potassium and the antioxidants lycopene and Vitamin C, but fiber (from the pear and cucumbers), and healthy fats (almonds). Add in some vegan pea protein and anti-inflammatory mint, and you have an energizing and restorative meal replacement that will help you keep on keeping on!"
+    }
 ]
