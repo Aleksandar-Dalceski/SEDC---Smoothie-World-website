@@ -10,8 +10,6 @@ function getAllProteins() {
           var newElement = {
             image: data[key].image,
             name: data[key].name
-            // recipe: data[key].recipe,
-            // description: data[key].description
           };
   
           return newElement;
@@ -30,10 +28,13 @@ function getAllProteins() {
         protein.image,
         protein.name,
         protein.name
-        // protein.recipe,
-        // protein.description,
       );
   
       document.getElementById("protein").append(card);
     });
   }
+  
+ var anchor = document.getElementsByTagName("a");
+ anchor.onclick = function(){
+   location.assign = "proteinrecipe.html";
+ }

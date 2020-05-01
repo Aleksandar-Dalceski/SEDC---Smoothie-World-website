@@ -6,12 +6,14 @@ function getAllEnergySmoothies() {
         return res.json();
       })
       .then(function(data) {
+        console.log(data) 
         allEnergy = Object.keys(data).map(function(key) {
           var newElement = {
+            id:key,
             name: data[key].name,
-            image: data[key].image            
+            image: data[key].image
+                  
           };
-  
           return newElement;
         });
   

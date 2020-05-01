@@ -261,6 +261,10 @@ h6 {
 
 h2 {
     font-size: 48px;
+    color:white;
+}
+h2 span {
+    color: #ffb03b;
 }
 
 .protein{
