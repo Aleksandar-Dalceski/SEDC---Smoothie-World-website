@@ -9,9 +9,7 @@ function getAllLowShugar() {
         AllLowCalories = Object.keys(data).map(function(key) {
           var newElement = {
             name: data[key].name,
-            image: data[key].image,
-            recipe: data[key].recipe,
-            description: data[key].description
+            image: data[key].image
           };
   
           return newElement;
@@ -29,8 +27,7 @@ function getAllLowShugar() {
       var card = createCardElement(
         lowCalories.image,
         lowCalories.name,
-        lowCalories.recipe,
-        lowCalories.description,
+        lowCalories.name
       );
   
       document.getElementById("lowcalories").append(card);

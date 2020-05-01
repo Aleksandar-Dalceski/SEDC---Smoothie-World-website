@@ -1,4 +1,4 @@
-function createCardElement(imageSrc, imageAlt, name, description, ) {
+function createCardElement(imageSrc, imageAlt, name  ) {
     var card = document.createElement("div");
     card.className = "card";
   
@@ -14,12 +14,12 @@ function createCardElement(imageSrc, imageAlt, name, description, ) {
     cardTitle.className = "card-title";
     cardTitle.innerText = name;
   
-    var cardText = document.createElement("p");
-    cardText.className = "card-text";
-    cardText.innerText = description;
+    // var cardText = document.createElement("p");
+    // cardText.className = "card-text";
+    // cardText.innerText = description;
 
   
-    cardBody.append(cardTitle, cardText);
+    cardBody.append(cardTitle);
     card.append(imageElement, cardBody);
   
     return card;

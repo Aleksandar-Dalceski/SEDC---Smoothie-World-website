@@ -9,9 +9,7 @@ function getAllEnergySmoothies() {
         allEnergy = Object.keys(data).map(function(key) {
           var newElement = {
             name: data[key].name,
-            image: data[key].image,
-            recipe: data[key].recipe,
-            description: data[key].description
+            image: data[key].image            
           };
   
           return newElement;
@@ -29,8 +27,7 @@ function getAllEnergySmoothies() {
       var card = createCardElement(
         energy.image,
         energy.name,
-        energy.recipe,
-        energy.description,
+        energy.name
       );
   
       document.getElementById("energy").append(card);

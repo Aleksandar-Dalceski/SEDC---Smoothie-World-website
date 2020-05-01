@@ -8,10 +8,10 @@ function getAllProteins() {
       .then(function(data) {
         AllProteins = Object.keys(data).map(function(key) {
           var newElement = {
-            name: data[key].name,
             image: data[key].image,
-            recipe: data[key].recipe,
-            description: data[key].description
+            name: data[key].name
+            // recipe: data[key].recipe,
+            // description: data[key].description
           };
   
           return newElement;
@@ -29,8 +29,9 @@ function getAllProteins() {
       var card = createCardElement(
         protein.image,
         protein.name,
-        protein.recipe,
-        protein.description,
+        protein.name
+        // protein.recipe,
+        // protein.description,
       );
   
       document.getElementById("protein").append(card);
