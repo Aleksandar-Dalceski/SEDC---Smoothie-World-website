@@ -15,7 +15,7 @@ function drawEachRecepie(data) {
 
     <img src="${data.image}" class="card-img-top" alt="image">
     <div class="card-body">
-    <h5 class="card-title">${data.name}</h5>
+    <h1 class="card-title">${data.name}</h1>
     <p class="card-text">${data.recipe}</p>
     <p class="card-text" style="color: orange;">${data.description}</p>
      </div>
