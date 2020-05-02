@@ -8,14 +8,19 @@ function getAllProteins() {
       .then(function(data) {
         AllProteins = Object.keys(data).map(function(key) {
           var newElement = {
+            id:key,
             image: data[key].image,
             name: data[key].name
+            
           };
-  
+  console.log(newElement)
           return newElement;
+          
+          
         });
-  
+        
         drawAllProteinRecipes(AllProteins);
+        
       })
       .catch(function(error) {
         console.log(error);
@@ -27,14 +32,20 @@ function getAllProteins() {
       var card = createCardElement(
         protein.image,
         protein.name,
-        protein.name
+        protein.name,
+        "../protein.html?id=" + protein.id
       );
-  
+      
       document.getElementById("protein").append(card);
     });
   }
+
+
+var anchor = document.getElementsByClassName("btn-warning");
+console.log(anchor)
+
+anchor.onclick= function(){
+   location.replace("../protein.html?id=" + protein.id)
+}
   
- var anchor = document.getElementsByTagName("a");
- anchor.onclick = function(){
-   location.assign = "proteinrecipe.html";
- }
+ 

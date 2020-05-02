@@ -28,6 +28,5 @@ function createCardElement(imageSrc, imageAlt, name,anchorHref  ) {
   
     return card;
   }
-
   
  

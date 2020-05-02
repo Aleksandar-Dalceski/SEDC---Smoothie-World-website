@@ -35,3 +35,4 @@ function getAllEnergySmoothies() {
       document.getElementById("energy").append(card);
     });
   }
+  
