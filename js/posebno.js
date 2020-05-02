@@ -18,8 +18,7 @@ function drawEachRecepie(data) {
     <p class="card-text">${data.recipe}</p>
     <p class="card-text" style="color: orange;">${data.description}</p>
      </div>
-     <img src="${data.image2}" class="card-img-top" alt="image">
-</div>
+ </div>
     `
     document.querySelector(".container").innerHTML = recipe;
 }
