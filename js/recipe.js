@@ -11,7 +11,7 @@ drawEachRecepie(parse)
 function drawEachRecepie(data) {
     console.log(data)
     var recipe = `
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 60% ">
     <img src="${data.image}" class="card-img-top" alt="image">
     <div class="card-body">
     <h5 class="card-title">${data.name}</h5>
@@ -20,5 +20,7 @@ function drawEachRecepie(data) {
      </div>
 </div>
     `
-    document.querySelector(".container").innerHTML = recipe;
+
+
+    document.querySelector(".container-fluid").innerHTML = recipe;
 }
