@@ -11,14 +11,18 @@ drawEachRecepie(parse)
 function drawEachRecepie(data) {
     console.log(data)
     var recipe = `
-<div class="card" style="width: 35rem;">
+<div class="card" style="width: 60% ">
+
     <img src="${data.image}" class="card-img-top" alt="image">
-    <div class="card-body">
-    <h5 class="card-title">${data.name}</h5>
+  <div class="card-body">
+    <h1 class="card-title">${data.name}</h1>
     <p class="card-text">${data.recipe}</p>
     <p class="card-text" style="color: orange;">${data.description}</p>
-     </div>
- </div>
+    <img src="${data.image2}" class="card-img-top" alt="image">
+    </div>
+
+    
+</div>
     `
-    document.querySelector(".container").innerHTML = recipe;
+    document.querySelector(".container-fluid").innerHTML = recipe;
 }
