@@ -15,7 +15,7 @@ function getAllcalm() {
                     image: data[key].image,
                     recipe: data[key].recipe,
                     description: data[key].description,
-                    image2:data[key].image2
+                    image2: data[key].image2
                 };
 
                 return newElement;
