@@ -13,7 +13,8 @@ function getAllProtein() {
                     name: data[key].name,
                     image: data[key].image,
                     recipe: data[key].recipe,
-                    description: data[key].description
+                    description: data[key].description,
+                    image2:data[key].image2                    
                 };
 
                 return newElement;
