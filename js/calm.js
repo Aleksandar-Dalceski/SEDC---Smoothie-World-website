@@ -17,7 +17,7 @@ function getAllcalm() {
                     description: data[key].description,
                     image2: data[key].image2
                 };
-
+                
                 return newElement;
             });
             drawAllCalmRecipes(AllCalm);
