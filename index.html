@@ -81,8 +81,8 @@
                                 <p class="animated fadeInUp">Keep calm and drink Smoothie</p>
                                 <div>
                                     <form class="form-inline md-form mr-auto mb-4">
-                                        <input class="form-control mr-sm-2 bac" type="text" placeholder="Search" aria-label="Search" style="background-color: #ffb03b;">
-                                        <button class="btn btn-outline-warning btn-rounded btn-sm my-0" type="submit">Search For Your Taste</button>
+                                        <input id="search-input" class="form-control mr-sm-2 bac" type="text" placeholder="Search" aria-label="Search" style="background-color: #ffb03b;">
+                                        <button onclick="searchSmoothies()" class="btn btn-outline-warning btn-rounded btn-sm my-0" type="submit">Search For Your Taste</button>
                                     </form>
                                 </div>
                             </div>
@@ -97,8 +97,8 @@
                                 <p class="animated fadeInUp">You can't be sad when you're holding a Smoothie</p>
                                 <div>
                                     <form class="form-inline md-form mr-auto mb-4">
-                                        <input class="form-control mr-sm-2 bac" type="text" placeholder="Search" aria-label="Search" style="background-color: #ffb03b;">
-                                        <button class="btn btn-outline-warning btn-rounded btn-sm my-0" type="submit">Search For Your Taste</button>
+                                        <input id="search-input" class="form-control mr-sm-2 bac" type="text" placeholder="Search" aria-label="Search" style="background-color: #ffb03b;">
+                                        <button onclick="searchSmoothies()" class="btn btn-outline-warning btn-rounded btn-sm my-0" type="submit">Search For Your Taste</button>
                                     </form>
                                 </div>
                             </div>
@@ -114,7 +114,7 @@
                                 <p id="smoothie-quotes" class="animated fadeInUp">Good food is a good mood</p>
                                 <div>
                                     <form class="form-inline md-form mr-auto mb-4">
-                                        <input class="form-control mr-sm-2 bac" type="text" placeholder="Search" aria-label="Search" style="background-color: #ffb03b;">
+                                        <input id="search-input" class="form-control mr-sm-2 bac" type="text" placeholder="Search" aria-label="Search" style="background-color: #ffb03b;">
                                         <button onclick="searchSmoothies()" class="btn btn-outline-warning btn-rounded btn-sm my-0" type="button">Search For Your Taste</button>
                                     </form>
                                 </div>
@@ -138,7 +138,8 @@
         </div>
     
     </section>   
-
+    <!-- <div id="smoothies" class="card-columns"></div> -->
+    <script src="js/search.js"></script>
 </body>
 
 </html>
